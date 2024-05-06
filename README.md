@@ -13,7 +13,12 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## lINKS
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
+- https://youtu.be/m0YyEuqfae4?si=S1M1XvXv2O4bNiMC
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## MI DISEÑO
+![image](https://github.com/MolinaVRL128/A9-Diseno0967/assets/143743724/1df905f6-7335-469a-acf7-4f8384b86f5a) ![image](https://github.com/MolinaVRL128/A9-Diseno0967/assets/143743724/19110761-a840-41d2-b166-87ec2c775034)
+![image](https://github.com/MolinaVRL128/A9-Diseno0967/assets/143743724/d1de11ea-40cf-4de4-b693-941c38ccdfff)
+
